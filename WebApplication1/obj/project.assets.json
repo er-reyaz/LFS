@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unit4\\LFSTest\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Unit4\\LFSTest\\LFS\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Unit4\\LFSTest\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Unit4\\LFSTest\\LFS\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\global\\.nuget\\packages\\",
-      "outputPath": "D:\\Unit4\\LFSTest\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Unit4\\LFSTest\\LFS\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

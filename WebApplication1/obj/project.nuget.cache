@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxBjmL4x139aN/R+1ctMJlatnPprtEe2bvkiezl/BnBKueEJq9ncyi0yM3w0gnXAdMr0ztv51xWnraTxSHmw7w==",
+  "dgSpecHash": "A+gvyaQtI93P9xScrPcK6dtHIRPyltFmoXNUSOBhUE5U22FdRuHGClIf1BL4XwEDMTvqpBJEQHZk8nPTuu1gZg==",
   "success": true,
-  "projectFilePath": "D:\\Unit4\\LFSTest\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Unit4\\LFSTest\\LFS\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
