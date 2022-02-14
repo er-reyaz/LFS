@@ -1,15 +1,12 @@
 *.bak filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.msi filter=lfs diff=lfs merge=lfs -text
-
 # Set the default behavior, in case people don't have core.autocrlf set.
 * text=auto
-
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
 *.c 		        text
 *.h 		        text
-
 # Declare files that will always have CRLF line endings on checkout.
 *.sln		        text eol=crlf
 *.cs 		        text diff=csharp
@@ -17,11 +14,9 @@
 *.css               text diff=css
 *.htm               text diff=html
 *.html              text diff=html
-
 # Declare npm files with LF line endings
 package.json        text eol=lf
 package-lock.json   text eol=lf
-
 # Denote all files that are truly binary and should not be modified.
 *.png 		        binary
 *.jpg 		        binary
@@ -30,3 +25,4 @@ package-lock.json   text eol=lf
 *.exe 		        binary
 *.msi 		        binary
 *.dll		        binary
+Database/ filter=lfs diff=lfs merge=lfs -text
